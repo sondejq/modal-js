@@ -1,3 +1,6 @@
+body {
+    margin: 0;
+}
 .container {
     position: relative;
 }
@@ -63,12 +66,12 @@
     position: absolute;
     top: 30;
     right: 30;
-    height:40px;
-    width:40px;
+    height: 40px;
+    width: 40px;
     background-color: transparent;
-    border:none;
+    border: none;
     cursor: pointer;
 }
-.fa-times{
-    color:white;
+.fa-times {
+    color: white;
 }
